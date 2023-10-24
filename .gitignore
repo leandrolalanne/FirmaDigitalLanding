@@ -1,2 +1,2 @@
 # Ignora los archivos de VC
-FirmaDigitalLanding.code-workspace
+*.code-workspace
